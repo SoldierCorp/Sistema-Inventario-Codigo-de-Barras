@@ -11,4 +11,5 @@ editarlos tanto en información como en su código de barras.
 Tecnologías a utilizar: HTML5, CSS3, JavaScript, jQuery, jQuery UI, jQuery Barcode Plugin, DataTables jQuery, Bootstrap, PHP, PDO y MySQL.
 
 Twitter: @_soldier
+
 Sitio web: http://soldiercorp.net
