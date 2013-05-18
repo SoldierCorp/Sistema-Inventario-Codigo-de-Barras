@@ -1,0 +1,53 @@
+ body {
+ 	background: rgba(204, 204, 204, 1);
+ 	font-size: 14px;
+ }
+ #mainWrapper {
+ 	border-radius: 5px;
+ 	margin: 0 auto;
+ 	margin-top: 10px;
+ 	max-width: 1000px;
+ }
+ #titleContent {
+ 	background: rgba(0,0,0,0.7);
+ 	color: white;
+ 	font-size: 16px;
+ 	padding: 10px;
+ }
+ section article {
+ 	margin-top: 15px;
+ }
+ .barCode {
+ 	border: 1px solid gray;
+ 	border-radius: 4px;
+	height: 125px;
+	margin-bottom: 10px;
+	width: 24%;
+ }
+ .barCode header {
+ 	border-bottom: 1px solid gray;
+ 	height: 35px;
+ 	margin-top: -10px;
+ }
+ .barCode header h4 {
+ 	background: #F7F7F9;
+ 	line-height: 35px;
+ 	text-align: center;
+ }
+ .alert {
+ 	display: none;
+ }
+ #aRegister {
+ 	display: none;
+ }
+ #aSearch {
+ 	//display: none;
+ }
+footer {
+	background: rgba(0,0,0,0.7);
+	border-radius: 4px;
+	color: white;
+	margin: 0 auto;
+	max-width: 1000px;
+	padding: 12px;
+}
