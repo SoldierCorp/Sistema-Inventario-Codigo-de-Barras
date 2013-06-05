@@ -43,6 +43,17 @@
  #aSearch {
  	//display: none;
  }
+ #tSearch_wrapper {
+ 	margin-bottom: 20px;
+ }
+#aSearch .row-fluid {
+	border-top: 3px dotted black;
+	display: none;
+	padding-top: 10px;
+}
+#aSearch table tr {
+	cursor: pointer;
+}
 footer {
 	background: rgba(0,0,0,0.7);
 	border-radius: 4px;

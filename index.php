@@ -11,10 +11,11 @@
 	<link rel="stylesheet" type="text/css" href="styles/bootstrap.css">
 
 	<script src="scripts/jquery-1.9.1.js"></script>
-	<script src="scripts/functions.php"></script>
+	<script src="scripts/functions.js"></script>
 	<script src="scripts/prefixfree.min.js"></script>
 	<script src="scripts/jquery.dataTables.js"></script>
 	<script src="scripts/jquery-ui-1.10.3.custom.js"></script>
+	<script src="scripts/jquery-barcode.js"></script>
 </head>
 <body>
 	<div id="mainWrapper">
@@ -61,6 +62,24 @@
 						</tr>
 					</thead>
 					<tbody>
+						<tr>
+							<td>4</td>
+							<td>Area 1</td>
+							<td>Soldier</td>
+							<td>Edgardo</td>
+							<td>1234</td>
+							<td>10</td>
+							<td>Articulo y descripción</td>
+						</tr>
+						<tr>
+							<td>6</td>
+							<td>Area 2</td>
+							<td>SoldierCorp</td>
+							<td>Edgardo</td>
+							<td>1234</td>
+							<td>10</td>
+							<td>Articulo y descripción</td>
+						</tr>
 					</tbody>
 				</table>
 				<div class="row-fluid">
@@ -73,7 +92,7 @@
 						<div class="contentBarcode">
 							<div class="barCode">
 								<header><h4>Código</h4></header>
-								<canvas id="registerBarcode" width="115" height="70"></canvas>
+								<canvas id="searchBarcode" width="115" height="70"></canvas>
 							</div>
 							<a href="#" class="btn btn-primary">Guardar</a>
 							<div class="alert"></div>

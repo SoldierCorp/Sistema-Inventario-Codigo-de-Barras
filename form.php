@@ -2,33 +2,33 @@
 	<p> 
 	    <label for="area"></label>
 	    <select id="area" class="area" name="area">
-	    	<option value="0">Seleccione Área</value>
+	    	<option value="0">Seleccione Área</option>
 	    </select>
 	</p>
 	<p> 
 	    <label for="boss"></label>
 	    <select id="boss" class="boss" name="boss">
-	    	<option value="0">Seleccione Encargado</value>
+	    	<option value="0">Seleccione Encargado</option>
 	    </select>
 	</p>
 	<p> 
 	    <label for="name"></label>
-	    <input id="name" class="name" name="name" type="text"/>
+	    <input id="name" class="name" name="name" type="text" required/>
 	</p>
 	<p> 
 	    <label for="serial"></label>
-	    <input id="serial" class="serial" name="serial" type="text"/>
+	    <input id="serial" class="serial" name="serial" type="text" required/>
 	</p>
 	<p> 
 	    <label for="stock"></label>
-	    <input id="stock" clas="stock" name="stock" type="text"/>
+	    <input id="stock" clas="stock" name="stock" type="text" required/>
 	</p>
 	<p> 
-	    <textarea id="description" class="description" name="description"></textarea>
+	    <textarea id="description" class="description" name="description" required></textarea>
 	</p>
 	<p> 
 	    <label for="date"></label>
-	    <input id="date" class="date" name="date" type="text"/>
+	    <input id="date" class="date" name="date" type="text" required/>
 	</p>
 	<p>
 		<input class="btn btn-danger" type="reset" value="Limpiar"/>
