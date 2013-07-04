@@ -1,4 +1,4 @@
-Proyecto: Sistema de inventariado con generación de código de barras.
+Proyecto: Sistema de inventario con generación de código de barras.
 
 ========================================================================
 
@@ -13,3 +13,5 @@ Tecnologías a utilizar: HTML5, CSS3, JavaScript, jQuery, jQuery UI, jQuery Barc
 Twitter: http://twitter.com/_soldier
 
 Sitio web: http://soldiercorp.net
+
+Proyecto: http://www.youtube.com/playlist?list=PLmvwjKN8q_nk3MZrjEt0Le1-OoxYfyzjl
